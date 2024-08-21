@@ -8,7 +8,7 @@ body {
   margin: 0;
   font-family: 'Arial', sans-serif;
   color: #333;
-  background-image: url('/asset/m.gif');
+  background-image: url('asset/m.gif');
   background-size: cover;
    backdrop-filter:blur(5px);
 }
